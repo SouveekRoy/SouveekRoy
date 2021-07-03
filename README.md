@@ -1,8 +1,7 @@
 ### Hi there 👋
 <h2>I'm Souveek Roy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<!--
-**SouveekRoy/SouveekRoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -62,8 +61,8 @@ Here are some ideas to get you started:
   
 <p align="center">
 <a href="https://github.com/SouveekRoy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH007700&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MANISH007700&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="SouveekRoy's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouveekRoy&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SouveekRoy&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="SouveekRoy's github stats"/>
 </a></p>
 <br>
   
