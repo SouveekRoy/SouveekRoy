@@ -1,9 +1,8 @@
-### Hi there 👋
-<h2>I'm Souveek Roy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+### Hi there 👋 <h2>I'm Souveek Roy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on creating Dashboards on Business Intelligence 
 - 🌱 I’m currently learning Deep learning 
