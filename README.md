@@ -1,4 +1,4 @@
-### Hi there 👋 <h2>I'm Souveek Roy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h1> Hi there 👋 <h2>I'm Souveek Roy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 
 
