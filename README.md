@@ -1,9 +1,5 @@
 <h1> Hi there 👋 I'm Souveek Roy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-
-
-
-
 - 🔭 I’m currently working on creating Dashboards on Business Intelligence 
 - 🌱 I’m currently learning Deep learning 
 - 👯 I’m looking to collaborate on DL,ML,Research Papers and Digital art
@@ -11,8 +7,7 @@
 - 💬 Ask me about Anything
 - ⚡ Fun fact: I am a digital artist by passion and yes I love cooking
 
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+
 
 [<img align="left" alt="Souveek Roy | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Souveek Roy | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
