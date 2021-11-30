@@ -58,14 +58,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouveekRoy&theme=dark&layout=compact&exclude_repo=IoT-Libraries,Hackerrank-Codes" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SouveekRoy&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="SouveekRoy's github stats"/>
 </a></p>
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-<br>
-  
+<br>  
 <!--🌟 From [Souveek Roy](https://github.com/SouveekRoy)-->
 [linkedin]: https://www.linkedin.com/in/souveek-roy-9a07a4147/
 [Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=souveekroy14@gmail.com.com&su=SUBJECT&body=BODY&tf=1
 [Instagram]: https://www.instagram.com/souveek.roy/
   
-  
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
