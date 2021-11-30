@@ -1,19 +1,18 @@
 <h1> Hi there 👋 I'm Souveek Roy! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SouveekRoy/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/souveek-roy-9a07a4147/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/souveek.roy/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:souveekroy14.com)
+<br />
+<br />
+
 - 🔭 I’m currently working on creating Dashboards on Business Intelligence 
 - 🌱 I’m currently learning Deep learning 
 - 👯 I’m looking to collaborate on DL,ML,Research Papers and Digital art
 - 🤔 I’m looking for help with Frameworks
 - 💬 Ask me about Anything
 - ⚡ Fun fact: I am a digital artist by passion and yes I love cooking
-
-
-
-[<img align="left" alt="Souveek Roy | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Souveek Roy | Mail" width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][Mail]
-[<img align="left" alt="Souveek Roy | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
-
-
 
 
 
@@ -59,11 +58,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SouveekRoy&show_icons=true&theme=dark&count_private=true&icon_color=439975&text_color=6e6e6e" alt="SouveekRoy's github stats"/>
 </a></p>
 <br>  
-<!--🌟 From [Souveek Roy](https://github.com/SouveekRoy)-->
-[linkedin]: https://www.linkedin.com/in/souveek-roy-9a07a4147/
-[Mail]: https://mail.google.com/mail/u/0/?view=cm&fs=1&to=souveekroy14@gmail.com.com&su=SUBJECT&body=BODY&tf=1
-[Instagram]: https://www.instagram.com/souveek.roy/
-  
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
