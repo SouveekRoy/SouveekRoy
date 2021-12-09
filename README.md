@@ -6,8 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:souveekroy14.com)
 <br />
 <br />
-
-- 🔭 I’m currently working on creating Dashboards on Business Intelligence 
+ 
 - 🌱 I’m currently learning Deep learning 
 - 👯 I’m looking to collaborate on DL,ML,Research Papers and Digital art
 - 🤔 I’m looking for help with Frameworks
