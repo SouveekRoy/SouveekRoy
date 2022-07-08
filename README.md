@@ -8,7 +8,7 @@
 <br />
  
 - 🌱 I’m currently learning Deep learning 
-- 👯 I’m looking to collaborate on DL,ML,Research Papers and Digital art
+- 👯 I’m looking to collaborate on DL, ML, Data Science
 - 🤔 I’m looking for help with Frameworks
 - 💬 Ask me about Anything
 - ⚡ Fun fact: I am a digital artist by passion and yes I love cooking
